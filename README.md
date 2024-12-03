@@ -2,7 +2,7 @@
 - 👀 I’m interested in the <strong>Stock Market </strong> 
 - 🌱 I’m currently learning <strong> React</strong>, <strong> Node.js</strong>, <strong> Vue.js </strong>
 - 📫 How to reach me sergio.lopezr.88@gmail.com
-- 📚 Studying a Fullstack Developer Master at the University of Vitoria Gasteiz (Spain)
+- 📚 Studying a Fullstack Developer Master Program at the University of Vitoria-Gasteiz (Spain)
 - 😀 I regularly practice soccer ⚽, tennis 🎾 and bjj 🥋
 - 🏘️ I live in France
 
