@@ -13,13 +13,13 @@
 <strong> As a front end developer I use daily: </strong>
 </br></br>
 
-[![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5&logoColor=orange&labelColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css3&logoColor=blue&labelColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=yellow&labelColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=61DAFB&labelColor=white)](https://reactjs.org/)
-[![jQuery](https://img.shields.io/badge/-jQuery-white?style=flat-square&logo=jquery&logoColor=0769ad&labelColor=white)](https://jquery.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=purple&labelColor=white)](https://getbootstrap.com/)
-[![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git&logoColor=F05032&labelColor=white)](https://git-scm.com/)
+![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5&logoColor=orange&labelColor=white)
+![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css3&logoColor=blue&labelColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=JavaScript&logoColor=yellow&labelColor=white)
+![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=61DAFB&labelColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-white?style=flat-square&logo=jquery&logoColor=0769ad&labelColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=purple&labelColor=white)
+![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git&logoColor=F05032&labelColor=white)
 [![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=black&labelColor=white)](https://github.com/monsieurlopez/)
 
 </br>
