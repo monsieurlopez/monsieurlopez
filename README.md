@@ -10,7 +10,7 @@
 - 🏘️ I live in France
 
 </br>
-<strong> As a front end developer I use daily: </strong>
+<strong> As a front-end developer I use daily: </strong>
 </br></br>
 
 ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html5&logoColor=orange&labelColor=white)
