@@ -3,7 +3,7 @@
 </br>
 
 - 👀 I’m interested in the <strong>Stock Market </strong> and <strong> FullStack Programming </strong>
-- 🌱 I’m currently learning <strong> PHP </strong>, <strong> Node.js</strong>, <strong> Vue.js </strong> and <strong> TypeScript </strong>
+- 🌱 I’m currently learning <strong> Laravel</strong>, <strong> Node.js</strong>, <strong> Vue.js </strong> and <strong> TypeScript </strong>
 - 📫 How to reach me sergio.lopezr.88@gmail.com
 - 👨‍🎓 Studying a Fullstack Developer Master Program at the University of Vitoria-Gasteiz (Spain)
 - 😀 I practice soccer ⚽, tennis 🎾 and bjj 🥋
