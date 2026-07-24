@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm **Sergio López**
 
-### 🚀 Full-Stack Developer in progress | API & Open-Source Builder
+### Full-Stack Developer in progress | API & Open-Source Builder
 
 - 📈 Passionate about the **Stock Market** and **Full-Stack Development**
 - 🌱 Currently learning: **Laravel, Node.js, Vue.js, TypeScript**
